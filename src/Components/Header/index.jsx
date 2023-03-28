@@ -14,8 +14,9 @@ const HeaderComponent = () => {
   const { classes } = useStyles();
   return (
     <Header>
-      <Navbar classname = {classes.navbar}>
+      <Navbar className={classes.navbar}>
         <Text>Home</Text>
+        <Text>Settings</Text>
       </Navbar>
     </Header>
   )
