@@ -9,6 +9,7 @@ const List = (props) => {
   const { pageItems, showCompleted } = useContext(SettingsContext);
 
   const totalPages = Math.ceil(props.list.length / pageItems);
+  console.log('TOTAL PAGES ------>>>>>>', totalPages)
 
   const displayItems = showCompleted ? props.list : props.list.filter((item) => !item.complete )
 
