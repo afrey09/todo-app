@@ -8,6 +8,11 @@ Author: Adrienne Frey
 
 Phase 1: Incorporate configuration settings to the application.
 
+Phase 2: Implement the Context API to make some basic application settings available to components.
+         Provide the users with a form where they can change the values for those settings.
+         Save the users choices in Local Storage.
+         Retrieve their preferences from Local Storage and apply them to the application on startup.
+
 ### How to initialize/run application
 
 npm start
