@@ -31,3 +31,4 @@ npm start
 
 Joe Davitt 
 Jordan Covington
+Ryan Gallaway - Class review code

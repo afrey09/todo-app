@@ -1,5 +1,6 @@
 import { useContext } from 'react';
 import { SettingsContext } from '../../Context/Settings';
+//import { useStyles } from '../../hooks/styles';
 
 const Settings = (props) => {
 
