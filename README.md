@@ -13,6 +13,8 @@ Phase 2: Implement the Context API to make some basic application settings avail
          Save the users choices in Local Storage.
          Retrieve their preferences from Local Storage and apply them to the application on startup.
 
+In Phase 3, we’d like to extend the functionality of the application by requiring users be logged in to view items and also restrict access based on user type.
+
 ### How to initialize/run application
 
 npm start
